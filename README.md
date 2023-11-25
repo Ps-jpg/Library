@@ -40,3 +40,10 @@ Open the Device File Explorer: In Android Studio, click on View in the top menu 
 Navigate to the database file: In the Device File Explorer, navigate to /data/data/com.example.login/databases/.Library.db.
 
 You can access the .db in DB Browser.
+
+Screenshots
+![updateactivity](https://github.com/Ps-jpg/Library/assets/65162956/125b207d-6f48-4fac-8843-e9ff1ab747b3)![mainactivity_data](https://github.com/Ps-jpg/Library/assets/65162956/2e4b1b66-8d7e-4d06-8202-91c7ff378b44)
+![mainactivity_nodata](https://github.com/Ps-jpg/Library/assets/65162956/7c93995c-f58d-41e6-937a-1b9d0095f62a)
+![delall](https://github.com/Ps-jpg/Library/assets/65162956/350e138c-93a0-4dec-a4c5-7e383a0c983d)
+
+
