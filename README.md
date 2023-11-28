@@ -1,5 +1,5 @@
 
-Application to perform CRUD on sqlite DB in Android.
+Android Application to perform CRUD on sqlite DB in Android.
 
 Book Library App Documentation
 
